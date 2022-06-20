@@ -1,0 +1,15 @@
+#background{
+    background-color: blueviolet;
+    text-align: center;
+}
+.video, .playlist{
+    background-color: antiquewhite;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;       
+}
+h1{
+    text-align: center;
+    padding: auto;
+    color: white;
+}
